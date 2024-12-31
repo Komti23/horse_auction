@@ -1,0 +1,191 @@
+{
+  "_fv": 66,
+  "_type": "villagertrade",
+  "definition": {
+    "tradeEntries": [
+      {
+        "villagerProfession": {
+          "value": "ARMORER"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.LEATHER_HORSE_ARMOR"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": "Items.IRON_INGOT"
+            },
+            "countPrice2": 3,
+            "offer": {
+              "value": "Items.IRON_HORSE_ARMOR"
+            },
+            "countOffer": 1,
+            "level": 3,
+            "maxTrades": 10,
+            "xp": 5,
+            "priceMultiplier": 0.09999999999999999
+          },
+          {
+            "price1": {
+              "value": "Items.LEATHER_HORSE_ARMOR"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": "Items.GOLD_INGOT"
+            },
+            "countPrice2": 3,
+            "offer": {
+              "value": "Items.GOLDEN_HORSE_ARMOR"
+            },
+            "countOffer": 1,
+            "level": 3,
+            "maxTrades": 10,
+            "xp": 5,
+            "priceMultiplier": 0.09999999999999999
+          },
+          {
+            "price1": {
+              "value": "Items.LEATHER_HORSE_ARMOR"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": "Items.DIAMOND"
+            },
+            "countPrice2": 3,
+            "offer": {
+              "value": "Items.DIAMOND"
+            },
+            "countOffer": 1,
+            "level": 4,
+            "maxTrades": 10,
+            "xp": 5,
+            "priceMultiplier": 0.09999999999999999
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "ARMORER"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.IRON_HORSE_ARMOR"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.IRON_INGOT"
+            },
+            "countOffer": 3,
+            "level": 4,
+            "maxTrades": 10,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.GOLDEN_HORSE_ARMOR"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.GOLD_INGOT"
+            },
+            "countOffer": 3,
+            "level": 4,
+            "maxTrades": 10,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.DIAMOND_HORSE_ARMOR"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.DIAMOND"
+            },
+            "countOffer": 3,
+            "level": 5,
+            "maxTrades": 10,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "ARMORER"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.IRON_HORSE_ARMOR"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.EMERALD"
+            },
+            "countOffer": 10,
+            "level": 4,
+            "maxTrades": 10,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.GOLDEN_HORSE_ARMOR"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.EMERALD"
+            },
+            "countOffer": 15,
+            "level": 4,
+            "maxTrades": 10,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          },
+          {
+            "price1": {
+              "value": "Items.DIAMOND"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Items.EMERALD"
+            },
+            "countOffer": 20,
+            "level": 5,
+            "maxTrades": 10,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          }
+        ]
+      }
+    ]
+  }
+}
